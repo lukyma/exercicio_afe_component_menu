@@ -1,0 +1,11 @@
+{
+  "name": "puc-shared-components-menu",
+  "version": "1.0.22",
+  "description": "Aula 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucas",
+  "license": "ISC"
+}
